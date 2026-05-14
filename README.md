@@ -1,4 +1,4 @@
-[![Behzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzad-janjua)](https://github.com/behzad-janjua/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzad-janjua)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **behzad-janjua/behzad-janjua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
