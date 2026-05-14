@@ -1,8 +1,5 @@
 # Hi there 👋
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=behzad-janjua&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-janjua&layout=compact&theme=tokyonight)
 <!--
 **behzad-janjua/behzad-janjua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
